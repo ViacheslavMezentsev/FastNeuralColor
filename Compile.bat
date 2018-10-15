@@ -1,0 +1,2 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe -target:winexe -optimize -unsafe -r:System.dll -r:System.Drawing.dll -r:System.Windows.Forms.dll -r:System.IO.dll -r:System.Reflection.dll -r:System.IO.Compression.dll -r:System.Threading.Tasks.dll -r:System.Threading.dll -resource:Exit.png -resource:FastNeuralColor.PABCModel -resource:Image.jpg -resource:MainIcon.jpg -resource:Open.png -resource:"PABCSoft Logo.jpg" -resource:Save.png -resource:Start.png -resource:Weights.jpg FastNeuralColor.cs
+cmd.exe
