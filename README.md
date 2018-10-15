@@ -1,22 +1,22 @@
 # FastNeuralColor
-Application for automatic coloring of the images
+Приложение для автоматического окрашивания изображений
 # Examples
-Input
+Оригинал
 
 ![Input_1](https://github.com/PABCSoft/FastNeuralColor/blob/C%23_En/Examples/Input_1.jpg)
 
-Output
+Результат
 
 ![Output_1](https://github.com/PABCSoft/FastNeuralColor/blob/C%23_En/Examples/Output_1.jpg)
 
-Input
+Оригинал
 
 ![Input_2](https://github.com/PABCSoft/FastNeuralColor/blob/C%23_En/Examples/Input_2.jpg)
 
-Output
+Результат
 
 ![Output_2](https://github.com/PABCSoft/FastNeuralColor/blob/C%23_En/Examples/Output_2.jpg)
 
 # References
-Thanks @zeruniverse for help in reading the weights of the neural network.
-His repository: https://github.com/zeruniverse/neural-colorization
+Благодарю @zeruniverse за помощь в чтении весов нейросети.
+Его репозиторий: https://github.com/zeruniverse/neural-colorization
